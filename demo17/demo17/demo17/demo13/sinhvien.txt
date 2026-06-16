@@ -1,0 +1,25 @@
+SV001,Đoàn Minh Quân,28/03/2000,Nam,3.7,Đang học
+SV002,Nguyễn Thị Huyền,12/05/2006,Nữ,3.2,Đang học
+SV003,Trần Văn Cường,20/08/2006,Nam,2.8,Đang học
+SV004,Lê Thị Dung,15/01/2006,Nữ,3.5,Đang học
+SV005,Hoàng Văn Tuấn,22/11/2006,Nam,2.5,Đang học
+SV006,Đỗ Minh Khang,01/02/2006,Nam,3.8,Đang học
+SV007,Bùi Thu Trà,05/06/2006,Nữ,3.1,Đang học
+SV008,Ngô Tấn Phát,19/09/2006,Nam,2.9,Đang học
+SV009,Phạm Hoàng Anh,30/12/2006,Nam,3.6,Đang học
+SV010,Vũ Bích Ngọc,14/02/2006,Nữ,3.9,Đang học
+SV011,Đặng Quang Huy,23/07/2006,Nam,2.4,Bảo lưu
+SV012,Hồ Bích Liên,09/08/2006,Nữ,3.3,Đang học
+SV013,Dương Tấn Phong,11/11/2006,Nam,2.7,Đang học
+SV014,Lý Thị Nhàn,17/04/2006,Nữ,3.4,Đang học
+SV015,Phan Vũ Long,04/11/2006,Nam,3.0,Đang học
+SV016,Trịnh Gia Bảo,03/05/2006,Nam,2.6,Đang học
+SV017,Mai Phương Thảo,29/10/2006,Nữ,3.0,Đang học
+SV018,Tạ Văn Hùng,08/01/2006,Nam,2.2,Đang học
+SV019,Lương Thu Trang,16/06/2006,Nữ,3.5,Đang học
+SV020,Chu Viết Nam,25/09/2006,Nam,3.1,Đang học
+sv123,bf,01/01/2000,Nam,0.0,Đang học
+ffffffffffffff,ssss,01/01/2000,Nam,0.0,Đang học
+dgj,ódgoj,01/01/2000,Nam,0.0,Đang học
+2024602083,long vu,01/01/2000,Nam,0.0,Đang học
+3er,dfd,01/01/2000,Nam,0.0,Đang học

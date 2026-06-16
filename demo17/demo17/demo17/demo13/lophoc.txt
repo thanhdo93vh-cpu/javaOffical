@@ -1,0 +1,8 @@
+LH005,Kinh tế ô tô,Kinh tế,GV03,SV010;SV011;3er
+LH006,Quản trị kinh doanh,Kinh tế,GV10,SV012;SV013;SV014
+LH007,Công nghệ Ô tô 1,Cơ khí - Ô tô,GV04,SV016;SV017
+LH008,Cơ điện tử 1,Cơ khí - Ô tô,GV07,SV018
+LH009,Ngôn ngữ Anh,Ngoại ngữ - Du lịch,GV05,SV019
+LH010,Quản trị lữ hành,Ngoại ngữ - Du lịch,GV08,SV020
+LH001,KTPM,Công nghệ Thông tin và Truyền thông,GV01,SV004;SV001;SV002;SV015;2024602083
+LH143,CNTT,Công nghệ Thông tin và Truyền thông,GV07,SV005;SV006;SV007;SV003;SV008;SV009
